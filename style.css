@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+
+body {
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Dela Gothic One', cursive;
+    flex-direction: column;
+}
+
+.igor-boy {
+    width: 400px;
+    height: 700px;
+    background-image: url('r4xUpBPsS2I.jpg');
+    background-position: center;
+}
