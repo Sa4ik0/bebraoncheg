@@ -1,0 +1,3 @@
+User-agent: YandexBot,Googlebot
+Crawl-delay: 1
+Host: https://capable-marzipan-5e1d0a.netlify.app/
